@@ -1,3 +1,7 @@
+停止维护，已经移植到了下面的库
+---
+move to [hdu-coder/evaluate](https://github.com/hdu-coder/evaluate-teacher)
+
 前言
 ---
 
